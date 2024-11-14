@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="bell.CSS">
+  </head>
+<body>
+<h1>Semantic o Semantica en HTML</h1>
+<h1>Parte 3-footer o pie de pagina </h1>
+<div class="imaMe"><img src="imagen/image copy 9.png" alt="ejemplo"></div>
+<p style="text-align:center">Como tal sirve para define un pie de página para un documento o sección, se usa normal mente para cosas como informacion de citio o de contacto. </p>
+<hr>
+<footer><!--Como tal qui se trair esta funcion para poder definir un pie de pagina-->
+  <p>Autor: Keler L.K Wiket</p>
+  <p>Correo:</p>
+  <p><a href="holasoyKeler@Los_aliens_son_relaes">holasoyKeler@Los_aliens_son_relaes</a></p>
+</footer>
+</body>
+</html>
