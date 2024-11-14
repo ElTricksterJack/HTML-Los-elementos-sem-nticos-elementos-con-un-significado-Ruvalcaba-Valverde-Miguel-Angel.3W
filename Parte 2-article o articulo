@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="bell.CSS">
+  </head>
+<body>
+<h1>Semantic o Semantica en HTML</h1>
+  <h1>Parte 2-article o articulo</h1>
+<div class="imaMe"><img src="imagen/image copy 8.png" alt="ejemplo"></div>
+<p style="text-align:center">Como tal esto sirve para haser articulos dentro de un sitio con html, aunque en todo caso divide un texto definiedolo como articulo.
+  se puede husar para haser artuclos o separasiones de mutiples temas.
+</p>
+<hr>
+<p>Ejemplo:</p>
+<article><!--Con esto somos capases de haser un articulo con el elemento article, esta es toda su fincion-->
+    <h2>El rotador tereste</h2>
+    <p>Cuenta hisotrias de este objeto segun los que lo an encotrado, para activarlo tienes que resolver cada una de las caras.
+    <br>Se cree que el poder que te otorga es poder rotar grandes pedasos de tierra y del entrono a tu voluntado, pero disen que es tan pesado como una montaña.
+    </p>
+    <img src="imagen/image copy 6.png" alt="ejemplo" width="200" height="200">
+  </article>
+  
+  <article>
+    <header>
+    <h2>El crusigrama de 1000 palabras</h2>
+    </header><!--elemento representa un contenedor para contenido introductorio o un conjunto de enlaces de navegación, se recomienda usar para cosas como logos o lementos del h1 al h6.-->
+    <p>Antiguos cuentos ablan de este artefacto, describiendolo como un rollo de papel que pose gravado un crusigrama de 1000 palabras.
+    disen que este objeto nos susura los asertigos del crusigrama den miles de legunas diferentes, y todos lo ven de manera diferente,
+    disen que aquel que lo complete sera capas de ver el pasado.
+    </p>
+    <img src="imagen/image copy 7.png" alt="ejemplo" width="400" height="300">
+  </article>
+</body>
+</html>
