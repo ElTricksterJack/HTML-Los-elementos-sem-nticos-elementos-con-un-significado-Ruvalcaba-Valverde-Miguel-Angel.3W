@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="bell.CSS">
+  </head>
+<body>
+<h1>Semantic o Semantica en HTML</h1>
+  <h1>Parte 6-figure y figcaption </h1>
+<div class="imaMe"><img src="imagen/image copy 13.png" alt="ejemplo"></div>
+<p style="text-align:center">La figure como tal dise si algo es una ilustraciones, diagramas, fotografías, listados de códigos, etc.</p>
+<p style="text-align:center">La figcaption define el titulo la etiqueta o la parte de abajo de un elemento.</p>
+<hr>
+<h2>Objeto: Calis del Rey</h2>
+
+<p>Este objeto solo logro ver una sola ves, y es mas un rumor ya que nuna mas se volvio a ver.
+  <br>los que lograron ver a su usuario lo veian siempre llorando y pero al pareser la presencial 
+  del usuario calmada a los demas, animales y personas por igual incluso el clima que era temperamental, 
+  se clamo en presencia de el, y cuando se marcho en su barco parecia que el mar lo favorecia, ya que no era un barco de vela sino solo de madera.
+</p>
+
+<figure><!--esto nos permite definir un elemento con una imgaen y ponerle una etiqueta con el figcaption-->
+  <img src="imagen/image copy 12.png" alt="ejemplo" style="width:30%">
+  <figcaption style="color: aliceblue;">Pag.42 - Guia de los objetos malditos..</figcaption>
+</figure>
+</body>
+</html>
